@@ -1,9 +1,3 @@
-# Benjamín Andrés Moya Naranjo
-
-Estudiante de Ingeniería Estadística con formación en análisis de datos y modelamiento estadístico
-Interesado en soluciones basadas en datos, especialmente en riesgo de crédito, data science, analítica y astronomia. Destaco por mi capacidad analítica y pensamiento crítico.
-
-
 # Proyectos
 
 🔭 Clasificación de líneas espectrales estelares mediante ML para el curso de deep learning
