@@ -13,5 +13,7 @@ Luego se generaron ventanas sobre la longitud de onda y el flux para alimentar d
 #### Herramientas: Python, TensorFlow/Keras, Polars/Pandas
 
 📁 /proyecto-readmisiones hospitalarias
-¿ Que variables nos pueden ayudar a predecir la readmision de las personas con insuficiencia cardiaca?
 
+¿Qué variables nos pueden ayudar a predecir la readmisión de las personas con insuficiencia cardíaca?
+
+En una primera instancia vemos la base de datos, cabe recalcar que esta es simulada. Revisamos si hay nulos o valores extraños y realizamos un análisis de correlación en base a nuestra variable objetivo (readmisión en 30 días). En base a tests estadísticos vimos que tanto el puntaje de adherencia al tratamiento como el BNP resultaban variables que tenían diferencias significativas entre los readmitidos y no readmitidos.
